@@ -2,5 +2,5 @@
 
 ## Material ui
 
-<p>This is an album using material ui components.</br> How material ui works with react.</p>
+<p>This is an album using material ui components.</br>The purpose of this web page was to know about how material ui works with react.</p>
 </div>
